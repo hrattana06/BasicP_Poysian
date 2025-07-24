@@ -16,3 +16,4 @@ while True:
         print("เล่นต้องการเล่น")
         no = int(input("ผู้เล่นต้องการเล่นกี่รอบ"))
         for i in range (no):
+            
